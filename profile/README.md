@@ -11,7 +11,7 @@
 - Springboot
 - Redis
 - AWS EC2
-- MySQL
+- AWS RDS (MySQL)
 
 ### OCR Server
 - Python (Pororo OCR)
