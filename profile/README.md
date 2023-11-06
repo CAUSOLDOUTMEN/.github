@@ -10,8 +10,7 @@
 - Java
 - Springboot
 - Redis
-- AWS EC2
-- AWS RDS (MySQL)
+- MySQL
 
 ### OCR Server
 - Python (Pororo OCR)
@@ -21,6 +20,8 @@
 - AWS S3
 
 ### CI/CD
-- Docker compose
+- Kubernetes
+- Argo CD
+- Kustomization
 - Github actions
-- AWS CodeDeploy
+- Docker
