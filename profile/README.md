@@ -27,4 +27,4 @@
 - Docker
 ---
 # Architecture
-<img width="1263" alt="architecture" src="./architecture.png">
+<img width="1263" alt="architecture" src="../.github/architecture.png">
