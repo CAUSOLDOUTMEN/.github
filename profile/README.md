@@ -25,3 +25,6 @@
 - Kustomization
 - Github actions
 - Docker
+---
+# Architecture
+<img width="1263" alt="architecture" src="./architecture.png">
