@@ -55,9 +55,8 @@ https://github.com/CAUSOLDOUTMEN/Diareat_backend/assets/53044069/f36dba64-3022-4
 - OpenCV
 - FastAPI
 - AWS EC2
-- AWS S3
 
-### CI/CD
+### Infra & CI/CD
 
 - Kubernetes
 - Argo CD
