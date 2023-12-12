@@ -2,6 +2,7 @@
 다이어릿 - Diareat (2023.09 ~ 2023.12)
 
 # Diareat, 사각지대 없는 식습관 관리를 위해!
+<img width="1000" alt="image" src="https://github.com/CAUSOLDOUTMEN/.github/blob/main/profile/diareat_main.png">
 
 <다이어릿>은 음식을 촬영하면 칼로리를 대략적으로 계산해주는 기존 서비스에서 영감을 받아, 가공식품의 영양성분표를 촬영하면 칼로리를 추출해주는 OCR 기능을 추가로 결합해 식습관 기록의 사각지대를 해소하는 데 기여하는 Food Capture 서비스입니다.
 ## Camera
