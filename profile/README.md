@@ -1,5 +1,5 @@
 # 프로젝트명
-다이어릿 - Diareat (2023.09 ~ 2023.12)
+다이어릿 - Diareat (2023.09 ~ 2023.12, 2023년 2학기 중앙대학교 소프트웨어학부 캡스톤디자인(1) 프로젝트 및 경진대회 장려상 수상)
 
 # Diareat, 사각지대 없는 식습관 관리를 위해!
 <img width="1000" alt="image" src="https://github.com/CAUSOLDOUTMEN/.github/blob/main/profile/diareat_main.png">
